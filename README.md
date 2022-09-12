@@ -18,9 +18,9 @@ Lista ordenada
 4. ..*Paso 2
 5. Paso **3**
 
-'''html
+```html
 <html>
   <head>
     </hrad>
   </html>
-  '''
+ ```
