@@ -25,4 +25,4 @@ Lista ordenada
   </html>
  ```
 [Google](https://www.google.es/?hl=ca "Buscador")
-[Foto]
+![Foto]
