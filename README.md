@@ -24,3 +24,5 @@ Lista ordenada
     </hrad>
   </html>
  ```
+[Google](https://www.google.es/?hl=ca "Buscador")
+[Foto]
